@@ -49,7 +49,7 @@ Esse projeto foi construído com as tecnologias:
 
 ---
 
-<p align="center">With 💜, by Leonardo Viana.</p>
+<p align="center">With 💜, by Melqui Sodré.</p>
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
